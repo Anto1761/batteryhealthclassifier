@@ -1,0 +1,7 @@
+Temperature,Voltage,Current,BatteryHealth
+35,3.7,1.2,Good
+38,3.6,1.4,Good
+45,3.5,1.8,Moderate
+48,3.4,2.0,Moderate
+55,3.2,2.5,Poor
+58,3.1,2.8,Poor
